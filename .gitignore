@@ -2,5 +2,16 @@ presidential_video/*
 presidential_videos/*
 presidential_video
 presidential_videos
+haarshare
+haarshare/*
 .idea
 .idea/*
+test
+test/*
+MNIST_data
+MNIST_data/*
+checkpoint_dir_1
+checkpoint_dir_1/*
+logs
+logs/*
+640
